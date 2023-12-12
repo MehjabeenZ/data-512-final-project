@@ -60,7 +60,7 @@ Intermediary Files:
 - [wildfires_data.csv](https://github.com/MehjabeenZ/data-512-final-project/blob/main/data/wildfires_data.csv): Wildfire incidents that occured between 1963-2023 that were less than 1250 miles from Gillette, Wyoming.  
 - [NAEP data.xlsx](https://github.com/MehjabeenZ/data-512-final-project/blob/main/data/NAEP%20Data.xlsx) Educational data from the National Assessment of Educational Progress (NAEP) for the state of Wyoming. 
 
-Some data files for the assigment were large in size (over 3 GB and 700 mb) and therefore not uploaded. However, these can be extracted using the links above and from the [code notebook](https://github.com/MehjabeenZ/data-512-project/blob/main/code/Analysis%20of%20Wildfires.ipynb). 
+Some data files for the assigment were large in size (over 3 GB and 700 mb) and therefore not uploaded. However, these can be extracted using the links above and from the [code notebook](https://github.com/MehjabeenZ/data-512-project/blob/main/code/Analysis%20of%20Wildfires.ipynb). The intermediary files for this project are stored in the 'data' folder of this repository. 
 
 The table below describes the data fields in the wildfires_data.csv file:
 
