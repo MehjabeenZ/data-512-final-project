@@ -55,7 +55,7 @@ Source Files:
 - [Sample Notebook for Calculating Geo Distances](https://drive.google.com/file/d/1qNI6hji8CvDeBsnLDAhJXvaqf2gcg8UV/view?usp=drive_link). This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.2 - August 14, 2023
 - [Sample Notebook for Extracting Air Quality Data](https://drive.google.com/file/d/1bxl9qrb_52RocKNGfbZ5znHVqFDMkUzf/view?usp=drive_link). This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.2 - August 14, 2023
 
-Intermediary Files:
+Intermediate Files:
 
 - [wildfires_data.csv](https://github.com/MehjabeenZ/data-512-final-project/blob/main/data/wildfires_data.csv): Wildfire incidents that occured between 1963-2023 that were less than 1250 miles from Gillette, Wyoming.  
 - [NAEP data.xlsx](https://github.com/MehjabeenZ/data-512-final-project/blob/main/data/NAEP%20Data.xlsx) Educational data from the National Assessment of Educational Progress (NAEP) for the state of Wyoming. 
