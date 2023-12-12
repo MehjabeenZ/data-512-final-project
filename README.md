@@ -34,6 +34,7 @@ This project has the following structure:
 │   ├── wildfires_data.csv
 ├── results/
 │   ├── Mehjabeen Zameer - DATA 512 Project Part 4.docx
+│   ├── Mehjabeen Zameer - DATA 512 Project Part 4.pdf
 ├── code/
 │   ├── Analysis of Wildfires.ipynb
 ├── LICENSE
